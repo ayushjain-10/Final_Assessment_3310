@@ -1,4 +1,4 @@
-# Final_Assessment_3310
+# Phone-Number-Formatter
 
 The goal of this library is to create a JavaScript function that takes in an unfornatted phone number and returns a formatted phone number.
 
