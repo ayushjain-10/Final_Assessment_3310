@@ -13,4 +13,4 @@ formatPhoneNumber('9809142333');
 //To run this file, uncomment the following line
 // console.log(formatPhoneNumber('9809142333'));
 
-module.exports.formatPhoneNumber = formatPhoneNumber;
+export { formatPhoneNumber };
